@@ -109,18 +109,3 @@
 - Compare this all-convolutional model with the original Mini-VGG.
 - Analyze how the removal of fully connected layers affects performance, model size, and training time.
 
----
-
-### Summary Report:
-1. **Results Summary**:
-   - Summarize the results of each experiment, including the Mini-VGG and its four variants.
-   
-2. **Classification Performance**:
-   - Discuss the classification accuracy for each model variant on the test set.
-
-3. **Model Size**:
-   - Report the number of parameters for each variant.
-   - Highlight how removing or adding layers affected the model size.
-
-4. **Computation Time**:
-   - Compare the training time for each model variant and analyze the time efficiency.
