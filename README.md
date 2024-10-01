@@ -1,4 +1,4 @@
-# -Exploring-Mini-VGG-Variants-on-CIFAR-10-Dataset-A-Compartive-Study
+# Exploring MiniVGG Variants on CIFAR10 Dataset(A Compartive Study)
 
 
 ### Steps for the Project:
