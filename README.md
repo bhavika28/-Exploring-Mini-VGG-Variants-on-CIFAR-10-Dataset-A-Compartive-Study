@@ -1,10 +1,6 @@
 # -Exploring-Mini-VGG-Variants-on-CIFAR-10-Dataset-A-Compartive-Study
 
 
-
-### Project Title:
-**"Exploring Mini-VGG Variants on CIFAR-10 Dataset: A Comparative Study of Model Performance and Optimization Techniques"**
-
 ### Steps for the Project:
 
 #### Step 1: Load CIFAR-10 Dataset
